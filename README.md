@@ -1,6 +1,13 @@
 # Only News App
 
-![App Screenshot](1.png, 2.png, 3.png, 4.png, 5.png, 6.png, 7.png, 8.png)
+![App Screenshot](1.png)
+![App Screenshot](2.png)
+![App Screenshot](3.png)
+![App Screenshot](4.png)
+![App Screenshot](5.png)
+![App Screenshot](6.png)
+![App Screenshot](7.png)
+![App Screenshot](8.png)
 
 ## Description
 
@@ -35,3 +42,19 @@ To run this app on your local machine, follow these steps:
     cd only-news-app
     ```
 
+3. Install dependencies:
+
+    ```bash
+    flutter pub get
+    ```
+
+4. Run the app:
+
+    ```bash
+    flutter run
+    ```
+
+
+
+
+    
